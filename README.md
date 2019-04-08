@@ -22,13 +22,18 @@ As a newbie programmer who just started coding for 2 weeks, I  mode this game!
 ## Framework of The Game
 ### Idea
 - Create a game consisted of 3 roles, 3 days, encounting 3 incidents with 3 endings
+- The ending would be determined by the choices user made, as the score/weighting would be different.
+     - There are 3 indexes to for score calculation: 
+          - Power
+          - Ability
+          - Reputation
      
-### Practice
+### Actual Work
 - Being MVP with 1 role, 1 main incident, 1 random case with 1 ending
      
 ### Roughly Flow
 ![](https://lh3.googleusercontent.com/2tckljtVkp4cHK_KeKkn6pmKmofkQ0Y58vXGwwKhvYMwmkO6kTkzsu7IeB8SK_jm0jSohwwgUA45eber2-9SAfNiznu6vWgl3Cas6M-IW-T9YvYeimSibpy5kfLgSI8WWK9xcBA8=w2400)
-
+- 
 
 ## Actual flow
 ### Files Used
