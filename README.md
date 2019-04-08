@@ -44,7 +44,9 @@ As a newbie programmer who just started coding for 2 weeks, I  mde this game!
 
 
 ### Detail FileName and Decision Tree
-![](https://lh3.googleusercontent.com/aYesNzpYqG9IUHfE0HBh1SwnYC2oesxgMkQF--vX1KatI5aAlt9hq0Z-7bkVMut5s60DMJVSBaPRPZUhSOfftZTvXHX-mrHdWrr-nqMGuxiEi_lRSWS8F_nmO-JSbfH1WmDM_V1u=w2400)
+- FileName & procedure are listed in graph below
+- Graph
+![](https://lh3.googleusercontent.com/wdagC9t4zusL46MZ0P0AJr9oP1I2s52Q0MA-_2Lc17FltEuUKWrrB3e9md35JcaZDpSfO54zJ02CmkMVAmAxQARSy-CoY7tiI0I1bPk2sGujqxq_6LIB2cTngQFRG2lV5dni0aZh=w2400)
 
 
 
