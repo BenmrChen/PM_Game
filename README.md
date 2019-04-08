@@ -25,7 +25,7 @@
 - 以1個角色、1個主要事件、1個隨機事項及1種結結當作MVP執行
      
 ### 流程
-![]https://lh3.googleusercontent.com/2tckljtVkp4cHK_KeKkn6pmKmofkQ0Y58vXGwwKhvYMwmkO6kTkzsu7IeB8SK_jm0jSohwwgUA45eber2-9SAfNiznu6vWgl3Cas6M-IW-T9YvYeimSibpy5kfLgSI8WWK9xcBA8=w2400
+![](https://lh3.googleusercontent.com/2tckljtVkp4cHK_KeKkn6pmKmofkQ0Y58vXGwwKhvYMwmkO6kTkzsu7IeB8SK_jm0jSohwwgUA45eber2-9SAfNiznu6vWgl3Cas6M-IW-T9YvYeimSibpy5kfLgSI8WWK9xcBA8=w2400)
 
 ## 運行流程
 這邊我將會簡單的描述一下這個專案的流程
