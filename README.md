@@ -5,26 +5,26 @@
 <h1 align="center">Plan for Newbie PM </h1>
 
 ## Preface
-這是一個剛剛學寫程式兩週的小菜鳥，絞盡腦汁寫成的小遊戲 -- 菜鳥PM養成計畫!
+As a newbie programmer who just started coding for 2 weeks, I  mode this game!
 
 
 ## Self-introduction
 ### Background
-- 姓名: 陳明仁 (Ben Chen)
-- 學歷: 國立台灣大學國際企業學系畢(非理工科系!)
-- 工作資歷: 曾任鴻海、LG化學、Garmin擔務生管、財會、PM等職位(非相關工作!)
+- Name: Ming-Ren Chen (Ben Chen)
+- Education: National Taiwan University (None CS related!)
+- Work Experience: Production plan、Business planning、Product management in Foxconn, LG Chem,Garmin (None IT related!)
 
 ### Programming Experience
-- 全職投入: 兩週
-- 其他: 購買過Hahow、Alpha Camp等線上課程，但成效不彰
+- Full-time: 2 weeks 
+- Part-time: Online courses like Hahow、Alpha Camp (None efficient learning, though)
 
 
 ## Framework of The Game
 ### Idea
-- 創造以3個角色為主角、為期3天、完成至少三個事件、以致有3種結局的PM養成小遊戲
+- Create a game consisted of 3 roles, 3 days, encounting 3 incidents with 3 endings
      
 ### Practice
-- 以1個角色、1個主要事件、1個隨機事項及1種結結當作MVP執行
+- Being MVP with 1 role, 1 main incident, 1 random case with 1 ending
      
 ### Roughly Flow
 ![](https://lh3.googleusercontent.com/2tckljtVkp4cHK_KeKkn6pmKmofkQ0Y58vXGwwKhvYMwmkO6kTkzsu7IeB8SK_jm0jSohwwgUA45eber2-9SAfNiznu6vWgl3Cas6M-IW-T9YvYeimSibpy5kfLgSI8WWK9xcBA8=w2400)
