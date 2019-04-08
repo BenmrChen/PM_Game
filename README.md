@@ -27,6 +27,9 @@ As a newbie programmer who just started coding for 2 weeks, I  mode this game!
           - Power
           - Ability
           - Reputation
+     - The weighting would also be different according to the role user selects.
+     - The higher the score is, the better the ending will be.
+     - E.g. If user chooses male as his role, the weighting of reputation would be 0.9. In day 1, if user choose visit all, the reputation would be 0.9*60= 54; so that the user's reputation score would be 0+54=54.
      
 ### Actual Work
 - Being MVP with 1 role, 1 main incident, 1 random case with 1 ending
