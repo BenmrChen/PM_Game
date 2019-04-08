@@ -10,26 +10,22 @@
 ## 自介
 ### 背景
 - 姓名: 陳明仁 (Ben Chen)
-- 國立台灣大學國際企業學系畢業(非理工科系!)
-- 曾任鴻海、LG化學、Garmin擔務生管、財會、PM等職位(非相關工作!)
+- 學歷: 國立台灣大學國際企業學系畢(非理工科系!)
+- 工作資歷: 曾任鴻海、LG化學、Garmin擔務生管、財會、PM等職位(非相關工作!)
 
 ### 寫程式經驗
 - 全職投入: 兩週
 - 其他: 購買過Hahow、Alpha Camp等線上課程，但成效不彰
     
-## 我的戰友們
-### iOS
-- [Albert](https://github.com/asdfg51014/FacebookLiveStreamingShopingApp)
-- [Chelsea](https://github.com/chelsealin88/streamliveproject)
-- [Jerry](https://github.com/aa08666/Livestream-shopping_iOS)
+## 小遊戲架購
+### 想法
+- 創造以3個角色為主角、為期3天、完成至少三個事件、以致有3種結局的PM養成小遊戲
      
-### Android
-- [Lester](https://github.com/jhengjhe/BuyBuyGo)
-- [James](https://github.com/tn710617/FacebookOptimizedLiveStreamSellingSystem)
+### 實作
+- 以1個角色、1個主要事件、1個隨機事項及1種結結當作MVP執行
      
-### Web
-- [Kai](https://github.com/LiaoYingKai/comeBuy)
-- [Askie](https://github.com/askiebaby/buy-everything)
+### 流程
+![]https://lh3.googleusercontent.com/2tckljtVkp4cHK_KeKkn6pmKmofkQ0Y58vXGwwKhvYMwmkO6kTkzsu7IeB8SK_jm0jSohwwgUA45eber2-9SAfNiznu6vWgl3Cas6M-IW-T9YvYeimSibpy5kfLgSI8WWK9xcBA8=w2400
 
 ## 運行流程
 這邊我將會簡單的描述一下這個專案的流程
