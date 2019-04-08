@@ -8,6 +8,7 @@
 As a newbie programmer who just started coding for 2 weeks, I  mode this game!
 
 
+
 ## Self-introduction
 ### Background
 - Name: Ming-Ren Chen (Ben Chen)
@@ -17,6 +18,7 @@ As a newbie programmer who just started coding for 2 weeks, I  mode this game!
 ### Programming Experience
 - Full-time: 2 weeks 
 - Part-time: Online courses like Hahow、Alpha Camp (None efficient learning, though)
+
 
 
 ## Framework of The Game
