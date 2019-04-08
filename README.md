@@ -1,4 +1,4 @@
-[English](./README.md) | 繁體中文
+[English](./README.zh-TW.md) | 繁體中文
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
