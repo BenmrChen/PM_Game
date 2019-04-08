@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<h1 align="center">Plan for Newbie PM </h1>
+<h1 align="center">Game - Newbie PM Growing Story </h1>
 
 ## Preface
 As a newbie programmer who just started coding for 2 weeks, I  mode this game!
