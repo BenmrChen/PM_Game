@@ -36,6 +36,8 @@ As a newbie programmer who just started coding for 2 weeks, I  mde this game!
      - Graph
 ![](https://lh3.googleusercontent.com/tFD4aB4gt-aOvZd8IR6czL4wQshyRRiHtFbhSVFRpVAfkEDe6mt5H8mTPBH2D9vDftCpjz1lfIJiOooMB0ufU-01axVLd29mnmmNZtMKREiNFu3K1k4gIbpOxdhrtzylHODNWfSz=w2400) 
 
+
+
 ### Actual Work Flow
 - Being MVP with 1 role, 1 main incident, 1 random case with 1 ending
 - Others as same to idea
@@ -50,4 +52,6 @@ As a newbie programmer who just started coding for 2 weeks, I  mde this game!
 
 
 
-
+## How to Start
+- Please use brower to open "index_start.php" and get started 
+- In each decision, please DO choose option 1 as other options are still under development
