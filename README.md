@@ -1,10 +1,10 @@
-[English](./README.zh-TW.md) | 繁體中文
+[正體中文](./README.zh-TW.md) | English
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<h1 align="center">菜鳥PM養成計畫</h1>
+<h1 align="center">Plan for Newbie PM </h1>
 
-## 前言
+## Preface
 這是一個剛剛學寫程式兩週的小菜鳥，絞盡腦汁寫成的小遊戲 -- 菜鳥PM養成計畫!
 
 
