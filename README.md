@@ -33,13 +33,13 @@ As a newbie programmer who just started coding for 2 weeks, I  mde this game!
      - The higher the score is, the better the ending will be
      - E.g. If user chooses male as his role, the weighting of reputation would be 0.9. In day 1, if user choose visit all, the reputation would be 0.9*60= 54; so that the user's reputation score would be 0+54=54
 
-[Graph]
+     - Graph
 ![](https://lh3.googleusercontent.com/tFD4aB4gt-aOvZd8IR6czL4wQshyRRiHtFbhSVFRpVAfkEDe6mt5H8mTPBH2D9vDftCpjz1lfIJiOooMB0ufU-01axVLd29mnmmNZtMKREiNFu3K1k4gIbpOxdhrtzylHODNWfSz=w2400) 
 
 ### Actual Work Flow
 - Being MVP with 1 role, 1 main incident, 1 random case with 1 ending
 - Others as same to idea
-[Graph]
+- Graph
 ![](https://lh3.googleusercontent.com/qwvt_SITl7fOkadHTlMMKd6pvq0TdzKTP9mYcqbK7kS4G2uWXxLJ6aDZGdhU2qwaihl_3SkYVWFcs2-sBgK6vKcCSKHbm9D0ue-w0UyB8gAg2L5aduri20ey7-C8Z8gg7hRS8Msg=w2400)
 
 
