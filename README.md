@@ -37,7 +37,7 @@ As a newbie programmer who just started coding for 2 weeks, I  mode this game!
 - Being MVP with 1 role, 1 main incident, 1 random case with 1 ending
      
 ### Roughly Flow
-![](https://photos.app.goo.gl/nYGpcfYgLU11QEsx5) 
+![](https://lh3.googleusercontent.com/tFD4aB4gt-aOvZd8IR6czL4wQshyRRiHtFbhSVFRpVAfkEDe6mt5H8mTPBH2D9vDftCpjz1lfIJiOooMB0ufU-01axVLd29mnmmNZtMKREiNFu3K1k4gIbpOxdhrtzylHODNWfSz=w2400) 
 
 
 
