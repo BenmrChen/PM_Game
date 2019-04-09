@@ -55,3 +55,5 @@ As a newbie programmer who just started coding for 2 weeks, I  mde this game!
 ## How to Get Started
 - Please use brower to open "index_start.php" and get started 
 - In each decision, please DO choose option 1 as other options are still under development
+- p.s. Once you see the screen below, congratulations, you've entered the successfully
+![](https://lh3.googleusercontent.com/yQkzGsAMrR38lWr7IN5WARbDqEGDrapYZ1vCee9ye4erv3dALjGnxTKKWsUgzJVlUzjUuwGtXzEjWusH6e6PDSzi6PzkU5M9PdTxoEl4xLSrJOG0w3_B7cm--AQl3lpzzXzm5At4=w2400)
