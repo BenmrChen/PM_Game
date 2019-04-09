@@ -47,7 +47,7 @@
 ## 如何開始
 - 請使用瀏覽器將"index_start.php"開啟，遊戲即開始
 - 由於本專案仍為MVP，在各決策選項中，請務必選項第一項(最上面的選項)，其他選項尚在開發中，敬請期待
-p.s. 見到以下畫面即代表您已成功進入遊戲
+- p.s. 見到以下畫面即代表您已成功進入遊戲
 ![](https://lh3.googleusercontent.com/yQkzGsAMrR38lWr7IN5WARbDqEGDrapYZ1vCee9ye4erv3dALjGnxTKKWsUgzJVlUzjUuwGtXzEjWusH6e6PDSzi6PzkU5M9PdTxoEl4xLSrJOG0w3_B7cm--AQl3lpzzXzm5At4=w2400)
 
 
