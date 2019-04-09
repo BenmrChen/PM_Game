@@ -52,6 +52,6 @@ As a newbie programmer who just started coding for 2 weeks, I  mde this game!
 
 
 
-## How to Start
+## How to Get Started
 - Please use brower to open "index_start.php" and get started 
 - In each decision, please DO choose option 1 as other options are still under development
