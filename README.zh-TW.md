@@ -36,12 +36,12 @@
 ### 實作
 - 以1個角色、1個主要事件、1個隨機事項及1種結結當作MVP執行
 - 其他與初始想法相同
-- Graph
+- 圖示
 ![](https://lh3.googleusercontent.com/qwvt_SITl7fOkadHTlMMKd6pvq0TdzKTP9mYcqbK7kS4G2uWXxLJ6aDZGdhU2qwaihl_3SkYVWFcs2-sBgK6vKcCSKHbm9D0ue-w0UyB8gAg2L5aduri20ey7-C8Z8gg7hRS8Msg=w2400)
      
 ### 詳細流程&&決策樹
 - 使用到之檔案名及決策樹如下
-- Graph
+- 圖示
 ![](https://lh3.googleusercontent.com/wdagC9t4zusL46MZ0P0AJr9oP1I2s52Q0MA-_2Lc17FltEuUKWrrB3e9md35JcaZDpSfO54zJ02CmkMVAmAxQARSy-CoY7tiI0I1bPk2sGujqxq_6LIB2cTngQFRG2lV5dni0aZh=w2400)
 
 ## 如何開始
