@@ -5,7 +5,7 @@
 <h1 align="center">Game - Newbie PM Growing Story </h1>
 
 ## Preface
-As a newbie programmer who just started coding for 2 weeks, I  mde this game!
+As a newbie programmer who just started coding for 2 weeks, I  made this game!
 
 
 
